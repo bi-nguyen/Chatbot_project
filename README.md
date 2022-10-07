@@ -1,7 +1,9 @@
 # Application Messenger chatbot using NLP
 Chatbot_Vietnamese_project
 # Packages:
- - Scikitlearn
+ - Scikit-learn
+ - numpy
+ 
 # Training :
  I used to LogsiticRegression with (multiclass ='multinomial') to train.
  My result is :
