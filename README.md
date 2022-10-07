@@ -2,7 +2,7 @@
 Chatbot_Vietnamese_project
 # Packages:
  - Scikitlearn
-#Training :
+# Training :
  I used to LogsiticRegression with (multiclass ='multinomial') to train.
  My result is :
  Accuracy:
