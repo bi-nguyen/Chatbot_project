@@ -2,6 +2,13 @@
 Chatbot_Vietnamese_project
 # Packages:
  - Scikitlearn
+#Training :
+ I used to LogsiticRegression with (multiclass ='multinomial') to train.
+ My result is :
+ Accuracy:
+ - 100%(on trainingset)
+ - 97% (on TestSet) 
+ 
 # Usage:
 First you go to this link https://drive.google.com/drive/folders/1V_gJNj_wtT7vfUaQtVw5mRstka8BPWMC?usp=sharing 
 Download 'botchat.rar' then you can go to the app and chat like this
