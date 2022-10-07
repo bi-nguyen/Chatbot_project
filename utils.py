@@ -17,9 +17,9 @@ def BagOfWord(word,ListWord):
 
 
 def main():
-    s="Mày đi đâu đó !"
+    s="xin chào mọi người"
     s=WordTokenize(s)
-    listword=["mày","tao","đâu","chó"]
+    listword=["chào","chiều","ngườI","xin"]
     print(np.array(BagOfWord(s,listword)))
     return
 
