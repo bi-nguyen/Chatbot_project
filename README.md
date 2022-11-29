@@ -1,4 +1,4 @@
-# Application Messenger chatbot using NLP
+# Application Messenger chatbot using logistic regression
 Chatbot_Vietnamese_project
 # Packages:
  - Scikit-learn
